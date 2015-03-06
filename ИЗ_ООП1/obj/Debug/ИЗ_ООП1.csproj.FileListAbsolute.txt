@@ -1,0 +1,10 @@
+C:\Users\Christina_R\Desktop\Для универа\ИЗ_ООП1\ИЗ_ООП1\bin\Debug\ИЗ_ООП1.exe.config
+C:\Users\Christina_R\Desktop\Для универа\ИЗ_ООП1\ИЗ_ООП1\bin\Debug\ИЗ_ООП1.exe
+C:\Users\Christina_R\Desktop\Для универа\ИЗ_ООП1\ИЗ_ООП1\bin\Debug\ИЗ_ООП1.pdb
+C:\Users\Christina_R\Desktop\Для универа\ИЗ_ООП1\ИЗ_ООП1\obj\Debug\ИЗ_ООП1.csprojResolveAssemblyReference.cache
+C:\Users\Christina_R\Desktop\Для универа\ИЗ_ООП1\ИЗ_ООП1\obj\Debug\ИЗ_ООП1.Properties.Resources.resources
+C:\Users\Christina_R\Desktop\Для универа\ИЗ_ООП1\ИЗ_ООП1\obj\Debug\ИЗ_ООП1.csproj.GenerateResource.Cache
+C:\Users\Christina_R\Desktop\Для универа\ИЗ_ООП1\ИЗ_ООП1\obj\Debug\ИЗ_ООП1.exe
+C:\Users\Christina_R\Desktop\Для универа\ИЗ_ООП1\ИЗ_ООП1\obj\Debug\ИЗ_ООП1.pdb
+C:\Users\Christina_R\Desktop\Для универа\ИЗ_ООП1\ИЗ_ООП1\obj\Debug\ИЗ_ООП1.EnterForm.resources
+C:\Users\Christina_R\Desktop\Для универа\ИЗ_ООП1\ИЗ_ООП1\obj\Debug\ИЗ_ООП1.ListForm.resources
